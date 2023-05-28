@@ -1,2 +1,3 @@
-# capstone-project-module_1
-CRUD application for e-commerce shop performance data 
+# crud-application-code-project
+For this project, I created a simple code for an Ecommerce Seller Dashboard with functions that can enable the user to track and monitor their sales performance report across several e-commerce platforms. 
+This project is made using Python as the programming language that employs the use of Python Conditions and If statements, Python While Loops & Nested Loops, and Python Functions concepts. This application contains 5 options in the Main Menu: Show Platform Performance Report, Create New Platform Data, Update Existing Platform Data, Delete Existing Platform Data, and Exit Seller Dashboard. 
